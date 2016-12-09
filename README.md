@@ -1,7 +1,8 @@
 # GovTrack Node
 
-# Modifications to original repo
+# Modifications to original repo / Notes
 - added committee function
+- many of the filters e.g. gender do not work anymore. I've used the q filter with the person function with success.
 
 [![Build Status](https://travis-ci.org/markgx/govtrack-node.svg?branch=master)](https://travis-ci.org/markgx/govtrack-node)
 [![Dependency Status](https://david-dm.org/markgx/govtrack-node.svg)](https://david-dm.org/markgx/govtrack-node)
